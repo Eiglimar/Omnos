@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Images/Scenes/Apresentacao.unity
+  isLoaded: 1
+  isActive: 1

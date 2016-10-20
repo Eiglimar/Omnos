@@ -1,0 +1,3003 @@
+fileFormatVersion: 2
+guid: dc09ac0276fea4ca392f45cad8ad292a
+timeCreated: 1464888044
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: heroi-nivel1_0
+    21300002: heroi-nivel1_1
+    21300004: heroi-nivel1_2
+    21300006: heroi-nivel1_3
+    21300008: heroi-nivel1_4
+    21300010: heroi-nivel1_5
+    21300012: heroi-nivel1_6
+    21300014: heroi-nivel1_7
+    21300016: heroi-nivel1_8
+    21300018: heroi-nivel1_9
+    21300020: heroi-nivel1_10
+    21300022: heroi-nivel1_11
+    21300024: heroi-nivel1_12
+    21300026: heroi-nivel1_13
+    21300028: heroi-nivel1_14
+    21300030: heroi-nivel1_15
+    21300032: heroi-nivel1_16
+    21300034: heroi-nivel1_17
+    21300036: heroi-nivel1_18
+    21300038: heroi-nivel1_19
+    21300040: heroi-nivel1_20
+    21300042: heroi-nivel1_21
+    21300044: heroi-nivel1_22
+    21300046: heroi-nivel1_23
+    21300048: heroi-nivel1_24
+    21300050: heroi-nivel1_25
+    21300052: heroi-nivel1_26
+    21300054: heroi-nivel1_27
+    21300056: heroi-nivel1_28
+    21300058: heroi-nivel1_29
+    21300060: heroi-nivel1_30
+    21300062: heroi-nivel1_31
+    21300064: heroi-nivel1_32
+    21300066: heroi-nivel1_33
+    21300068: heroi-nivel1_34
+    21300070: heroi-nivel1_35
+    21300072: heroi-nivel1_36
+    21300074: heroi-nivel1_37
+    21300076: heroi-nivel1_38
+    21300078: heroi-nivel1_39
+    21300080: heroi-nivel1_40
+    21300082: heroi-nivel1_41
+    21300084: heroi-nivel1_42
+    21300086: heroi-nivel1_43
+    21300088: heroi-nivel1_44
+    21300090: heroi-nivel1_45
+    21300092: heroi-nivel1_46
+    21300094: heroi-nivel1_47
+    21300096: heroi-nivel1_48
+    21300098: heroi-nivel1_49
+    21300100: heroi-nivel1_50
+    21300102: heroi-nivel1_51
+    21300104: heroi-nivel1_52
+    21300106: heroi-nivel1_53
+    21300108: heroi-nivel1_54
+    21300110: heroi-nivel1_55
+    21300112: heroi-nivel1_56
+    21300114: heroi-nivel1_57
+    21300116: heroi-nivel1_58
+    21300118: heroi-nivel1_59
+    21300120: heroi-nivel1_60
+    21300122: heroi-nivel1_61
+    21300124: heroi-nivel1_62
+    21300126: heroi-nivel1_63
+    21300128: heroi-nivel1_64
+    21300130: heroi-nivel1_65
+    21300132: heroi-nivel1_66
+    21300134: heroi-nivel1_67
+    21300136: heroi-nivel1_68
+    21300138: heroi-nivel1_69
+    21300140: heroi-nivel1_70
+    21300142: heroi-nivel1_71
+    21300144: heroi-nivel1_72
+    21300146: heroi-nivel1_73
+    21300148: heroi-nivel1_74
+    21300150: heroi-nivel1_75
+    21300152: heroi-nivel1_76
+    21300154: heroi-nivel1_77
+    21300156: heroi-nivel1_78
+    21300158: heroi-nivel1_79
+    21300160: heroi-nivel1_80
+    21300162: heroi-nivel1_81
+    21300164: heroi-nivel1_82
+    21300166: heroi-nivel1_83
+    21300168: heroi-nivel1_84
+    21300170: heroi-nivel1_85
+    21300172: heroi-nivel1_86
+    21300174: heroi-nivel1_87
+    21300176: heroi-nivel1_88
+    21300178: heroi-nivel1_89
+    21300180: heroi-nivel1_90
+    21300182: heroi-nivel1_91
+    21300184: heroi-nivel1_92
+    21300186: heroi-nivel1_93
+    21300188: heroi-nivel1_94
+    21300190: heroi-nivel1_95
+    21300192: heroi-nivel1_96
+    21300194: heroi-nivel1_97
+    21300196: heroi-nivel1_98
+    21300198: heroi-nivel1_99
+    21300200: heroi-nivel1_100
+    21300202: heroi-nivel1_101
+    21300204: heroi-nivel1_102
+    21300206: heroi-nivel1_103
+    21300208: heroi-nivel1_104
+    21300210: heroi-nivel1_105
+    21300212: heroi-nivel1_106
+    21300214: heroi-nivel1_107
+    21300216: heroi-nivel1_108
+    21300218: heroi-nivel1_109
+    21300220: heroi-nivel1_110
+    21300222: heroi-nivel1_111
+    21300224: heroi-nivel1_112
+    21300226: heroi-nivel1_113
+    21300228: heroi-nivel1_114
+    21300230: heroi-nivel1_115
+    21300232: heroi-nivel1_116
+    21300234: heroi-nivel1_117
+    21300236: heroi-nivel1_118
+    21300238: heroi-nivel1_119
+    21300240: heroi-nivel1_120
+    21300242: heroi-nivel1_121
+    21300244: heroi-nivel1_122
+    21300246: heroi-nivel1_123
+    21300248: heroi-nivel1_124
+    21300250: heroi-nivel1_125
+    21300252: heroi-nivel1_126
+    21300254: heroi-nivel1_127
+    21300256: heroi-nivel1_128
+    21300258: heroi-nivel1_129
+    21300260: heroi-nivel1_130
+    21300262: heroi-nivel1_131
+    21300264: heroi-nivel1_132
+    21300266: heroi-nivel1_133
+    21300268: heroi-nivel1_134
+    21300270: heroi-nivel1_135
+    21300272: heroi-nivel1_136
+    21300274: heroi-nivel1_137
+    21300276: heroi-nivel1_138
+    21300278: heroi-nivel1_139
+    21300280: heroi-nivel1_140
+    21300282: heroi-nivel1_141
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: heroi-nivel1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 88}
+        - {x: -40.5, y: 55}
+        - {x: -40.5, y: 0}
+        - {x: 41.5, y: 0}
+        - {x: 41.5, y: 56}
+        - {x: 31.5, y: 88}
+    - name: heroi-nivel1_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.5, y: 26}
+        - {x: 47.5, y: 30}
+        - {x: 47.5, y: 36}
+        - {x: 38.5, y: 40}
+        - {x: 5.5, y: 87}
+        - {x: -30.5, y: 87}
+        - {x: -39.5, y: 74}
+        - {x: -47.5, y: 36}
+        - {x: -47.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 8.5, y: 10}
+        - {x: 8.5, y: 13}
+        - {x: 28.5, y: 19}
+    - name: heroi-nivel1_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 88}
+        - {x: -43.5, y: 46}
+        - {x: -43.5, y: 11}
+        - {x: -36.5, y: 0}
+        - {x: 2.5, y: 0}
+        - {x: 44.5, y: 35}
+        - {x: 44.5, y: 72}
+        - {x: 5.5, y: 88}
+    - name: heroi-nivel1_3
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 7}
+        - {x: 40.5, y: 51}
+        - {x: 40.5, y: 70}
+        - {x: 37.5, y: 74}
+        - {x: 28.5, y: 73}
+        - {x: 15.5, y: 88}
+        - {x: -25.5, y: 88}
+        - {x: -40.5, y: 80}
+        - {x: -40.5, y: 15}
+        - {x: -29.5, y: 0}
+        - {x: -0.5, y: 0}
+        - {x: 0.5, y: 1}
+        - {x: 0.5, y: 10}
+        - {x: -6.5, y: 15}
+    - name: heroi-nivel1_4
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 87}
+        - {x: -42.5, y: 66}
+        - {x: -42.5, y: 5}
+        - {x: -37.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 43.5, y: 36}
+        - {x: 43.5, y: 83}
+        - {x: 36.5, y: 87}
+    - name: heroi-nivel1_5
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: 14}
+        - {x: 42.5, y: 56}
+        - {x: 19.5, y: 88}
+        - {x: -27.5, y: 88}
+        - {x: -38.5, y: 72}
+        - {x: -42.5, y: 26}
+        - {x: -42.5, y: 15}
+        - {x: -29.5, y: 0}
+        - {x: -3.5, y: 0}
+        - {x: -2.5, y: 1}
+        - {x: 1.5, y: 7}
+        - {x: 37.5, y: 11}
+    - name: heroi-nivel1_6
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 17}
+        - {x: 15.5, y: 86}
+        - {x: 12.5, y: 88}
+        - {x: -24.5, y: 88}
+        - {x: -36.5, y: 81}
+        - {x: -36.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 34.5, y: 1}
+        - {x: 37.5, y: 8}
+        - {x: 37.5, y: 13}
+    - name: heroi-nivel1_7
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 88}
+        - {x: -22.5, y: 88}
+        - {x: -29.5, y: 77}
+        - {x: -37.5, y: 17}
+        - {x: -37.5, y: 1}
+        - {x: -36.5, y: 0}
+        - {x: 38.5, y: 0}
+        - {x: 38.5, y: 31}
+        - {x: 20.5, y: 84}
+    - name: heroi-nivel1_8
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 88}
+        - {x: -31.5, y: 69}
+        - {x: -31.5, y: 19}
+        - {x: -14.5, y: 0}
+        - {x: 32.5, y: 0}
+        - {x: 32.5, y: 83}
+        - {x: 26.5, y: 88}
+    - name: heroi-nivel1_9
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 0}
+        - {x: 32.5, y: 46}
+        - {x: 27.5, y: 82}
+        - {x: 18.5, y: 87}
+        - {x: -11.5, y: 87}
+        - {x: -24.5, y: 84}
+        - {x: -32.5, y: 54}
+        - {x: -32.5, y: 5}
+        - {x: -31.5, y: 0}
+        - {x: 1.5, y: 0}
+        - {x: 1.5, y: 8}
+        - {x: 3.5, y: 0}
+    - name: heroi-nivel1_10
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 84}
+        - {x: -32.5, y: 60}
+        - {x: -34.5, y: 45}
+        - {x: -34.5, y: 13}
+        - {x: -29.5, y: 0}
+        - {x: 31.5, y: 0}
+        - {x: 34.5, y: 19}
+        - {x: 34.5, y: 34}
+        - {x: 11.5, y: 84}
+    - name: heroi-nivel1_11
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 80}
+        - {x: -29.5, y: 71}
+        - {x: -24.5, y: 54}
+        - {x: -33.5, y: 29}
+        - {x: -33.5, y: 16}
+        - {x: -28.5, y: 14}
+        - {x: -26.5, y: 14}
+        - {x: -28.5, y: 10}
+        - {x: -29.5, y: 0}
+        - {x: 34.5, y: 0}
+        - {x: 34.5, y: 62}
+        - {x: 9.5, y: 80}
+    - name: heroi-nivel1_12
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 76}
+        - {x: -17.5, y: 76}
+        - {x: -30.5, y: 64}
+        - {x: -34.5, y: 44}
+        - {x: -34.5, y: 16}
+        - {x: -31.5, y: 15}
+        - {x: -27.5, y: 14}
+        - {x: -33.5, y: 7}
+        - {x: -30.5, y: 0}
+        - {x: 34.5, y: 0}
+        - {x: 34.5, y: 25}
+        - {x: 6.5, y: 75}
+    - name: heroi-nivel1_13
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 13}
+        - {x: 0.5, y: 14}
+        - {x: 11.5, y: 10}
+        - {x: 43.5, y: 45}
+        - {x: 43.5, y: 66}
+        - {x: 32.5, y: 68}
+        - {x: 3.5, y: 92}
+        - {x: -43.5, y: 92}
+        - {x: -43.5, y: 6}
+        - {x: -39.5, y: 0}
+        - {x: 4.5, y: 0}
+        - {x: 4.5, y: 6}
+        - {x: 0.5, y: 11}
+        - {x: -2.5, y: 13}
+    - name: heroi-nivel1_14
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 16}
+        - {x: 5.5, y: 14}
+        - {x: 9.5, y: 12}
+        - {x: 26.5, y: 26}
+        - {x: 44.5, y: 65}
+        - {x: 44.5, y: 87}
+        - {x: 36.5, y: 91}
+        - {x: -28.5, y: 91}
+        - {x: -33.5, y: 87}
+        - {x: -44.5, y: 32}
+        - {x: -44.5, y: 1}
+        - {x: -38.5, y: 0}
+        - {x: 12.5, y: 0}
+        - {x: 12.5, y: 7}
+        - {x: 6.5, y: 13}
+    - name: heroi-nivel1_15
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 17}
+        - {x: 14.5, y: 14}
+        - {x: 19.5, y: 12}
+        - {x: 35.5, y: 28}
+        - {x: 43.5, y: 60}
+        - {x: 43.5, y: 75}
+        - {x: 40.5, y: 82}
+        - {x: 27.5, y: 76}
+        - {x: 14.5, y: 88}
+        - {x: -16.5, y: 88}
+        - {x: -33.5, y: 78}
+        - {x: -43.5, y: 58}
+        - {x: -43.5, y: 6}
+        - {x: -39.5, y: 0}
+        - {x: 22.5, y: 0}
+        - {x: 20.5, y: 8}
+        - {x: 14.5, y: 13}
+    - name: heroi-nivel1_16
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 82}
+        - {x: 23.5, y: 76}
+        - {x: 22.5, y: 48}
+        - {x: 21.5, y: 47}
+        - {x: 22.5, y: 57}
+        - {x: 22.5, y: 73}
+        - {x: 18.5, y: 79}
+        - {x: 10.5, y: 84}
+        - {x: -17.5, y: 84}
+        - {x: -37.5, y: 44}
+        - {x: -37.5, y: 0}
+        - {x: 28.5, y: 0}
+        - {x: 38.5, y: 24}
+        - {x: 38.5, y: 75}
+        - {x: 33.5, y: 83}
+    - name: heroi-nivel1_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 81}
+        - {x: -11.5, y: 81}
+        - {x: -36.5, y: 35}
+        - {x: -36.5, y: 0}
+        - {x: 36.5, y: 0}
+        - {x: 37.5, y: 3}
+        - {x: 37.5, y: 64}
+        - {x: 34.5, y: 80}
+    - name: heroi-nivel1_18
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 87}
+        - {x: -26.5, y: 87}
+        - {x: -32.5, y: 84}
+        - {x: -34.5, y: 72}
+        - {x: -34.5, y: 9}
+        - {x: -25.5, y: 1}
+        - {x: -24.5, y: 0}
+        - {x: 34.5, y: 0}
+        - {x: 34.5, y: 70}
+        - {x: 31.5, y: 85}
+    - name: heroi-nivel1_19
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 86}
+        - {x: -23.5, y: 78}
+        - {x: -30.5, y: 62}
+        - {x: -30.5, y: 55}
+        - {x: -20.5, y: 0}
+        - {x: 30.5, y: 0}
+        - {x: 30.5, y: 84}
+        - {x: 25.5, y: 86}
+    - name: heroi-nivel1_20
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 86}
+        - {x: -30.5, y: 61}
+        - {x: -30.5, y: 37}
+        - {x: -10.5, y: 0}
+        - {x: 26.5, y: 0}
+        - {x: 30.5, y: 11}
+        - {x: 30.5, y: 69}
+        - {x: 23.5, y: 86}
+    - name: heroi-nivel1_21
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 86}
+        - {x: -27.5, y: 77}
+        - {x: -27.5, y: 31}
+        - {x: -13.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 27.5, y: 10}
+        - {x: 27.5, y: 78}
+        - {x: 12.5, y: 86}
+    - name: heroi-nivel1_22
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 85}
+        - {x: -23.5, y: 85}
+        - {x: -24.5, y: 84}
+        - {x: -24.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 24.5, y: 15}
+        - {x: 24.5, y: 48}
+        - {x: 21.5, y: 78}
+    - name: heroi-nivel1_23
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 86}
+        - {x: -22.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 23.5, y: 4}
+        - {x: 23.5, y: 63}
+        - {x: 14.5, y: 86}
+    - name: heroi-nivel1_24
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 87}
+        - {x: -21.5, y: 84}
+        - {x: -21.5, y: 51}
+        - {x: -20.5, y: 45}
+        - {x: -16.5, y: 0}
+        - {x: 21.5, y: 0}
+        - {x: 21.5, y: 77}
+        - {x: 10.5, y: 87}
+    - name: heroi-nivel1_25
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 87}
+        - {x: -23.5, y: 87}
+        - {x: -28.5, y: 44}
+        - {x: -28.5, y: 2}
+        - {x: -18.5, y: 0}
+        - {x: -2.5, y: 0}
+        - {x: -1.5, y: 1}
+        - {x: -1.5, y: 8}
+        - {x: 1.5, y: 0}
+        - {x: 28.5, y: 0}
+        - {x: 28.5, y: 23}
+        - {x: 21.5, y: 77}
+    - name: heroi-nivel1_26
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 77}
+        - {x: 33.5, y: 80}
+        - {x: 9.5, y: 89}
+        - {x: -27.5, y: 89}
+        - {x: -31.5, y: 77}
+        - {x: -32.5, y: 59}
+        - {x: -31.5, y: 56}
+        - {x: -36.5, y: 33}
+        - {x: -36.5, y: 16}
+        - {x: -32.5, y: 1}
+        - {x: -31.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 14.5, y: 5}
+        - {x: 24.5, y: 15}
+        - {x: 37.5, y: 60}
+    - name: heroi-nivel1_27
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 90}
+        - {x: -40.5, y: 0}
+        - {x: 15.5, y: 0}
+        - {x: 41.5, y: 55}
+        - {x: 41.5, y: 68}
+        - {x: 17.5, y: 90}
+    - name: heroi-nivel1_28
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 91}
+        - {x: -26.5, y: 89}
+        - {x: -34.5, y: 78}
+        - {x: -44.5, y: 24}
+        - {x: -44.5, y: 4}
+        - {x: -37.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 44.5, y: 14}
+        - {x: 44.5, y: 77}
+        - {x: 34.5, y: 91}
+    - name: heroi-nivel1_29
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: 24}
+        - {x: 45.5, y: 28}
+        - {x: 45.5, y: 57}
+        - {x: 10.5, y: 86}
+        - {x: 1.5, y: 90}
+        - {x: -35.5, y: 90}
+        - {x: -45.5, y: 60}
+        - {x: -45.5, y: 1}
+        - {x: -41.5, y: 0}
+        - {x: -2.5, y: 0}
+        - {x: 2.5, y: 1}
+        - {x: 18.5, y: 8}
+    - name: heroi-nivel1_30
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 89}
+        - {x: -27.5, y: 89}
+        - {x: -44.5, y: 45}
+        - {x: -44.5, y: 7}
+        - {x: -38.5, y: 0}
+        - {x: 30.5, y: 0}
+        - {x: 44.5, y: 13}
+        - {x: 44.5, y: 50}
+        - {x: 18.5, y: 84}
+    - name: heroi-nivel1_31
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 82}
+        - {x: 13.5, y: 87}
+        - {x: -38.5, y: 87}
+        - {x: -40.5, y: 60}
+        - {x: -40.5, y: 0}
+        - {x: 38.5, y: 0}
+        - {x: 40.5, y: 1}
+        - {x: 40.5, y: 6}
+        - {x: 37.5, y: 12}
+    - name: heroi-nivel1_32
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 89}
+        - {x: -44.5, y: 40}
+        - {x: -44.5, y: 0}
+        - {x: 44.5, y: 0}
+        - {x: 44.5, y: 65}
+        - {x: 14.5, y: 89}
+    - name: heroi-nivel1_33
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 42}
+        - {x: 9.5, y: 90}
+        - {x: -28.5, y: 90}
+        - {x: -36.5, y: 86}
+        - {x: -45.5, y: 31}
+        - {x: -45.5, y: 9}
+        - {x: -34.5, y: 0}
+        - {x: 4.5, y: 0}
+        - {x: 22.5, y: 6}
+        - {x: 45.5, y: 22}
+    - name: heroi-nivel1_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3406
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 37}
+        - {x: 44.5, y: 78}
+        - {x: 28.5, y: 91}
+        - {x: -33.5, y: 91}
+        - {x: -43.5, y: 81}
+        - {x: -44.5, y: 53}
+        - {x: -44.5, y: 6}
+        - {x: -29.5, y: 0}
+        - {x: -18.5, y: 0}
+        - {x: -18.5, y: 3}
+        - {x: -16.5, y: 0}
+        - {x: 15.5, y: 0}
+    - name: heroi-nivel1_35
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 3406
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 89}
+        - {x: -12.5, y: 89}
+        - {x: -30.5, y: 83}
+        - {x: -30.5, y: 13}
+        - {x: -20.5, y: 0}
+        - {x: 28.5, y: 0}
+        - {x: 30.5, y: 3}
+        - {x: 30.5, y: 54}
+        - {x: 23.5, y: 82}
+    - name: heroi-nivel1_36
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3406
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 90}
+        - {x: -17.5, y: 89}
+        - {x: -28.5, y: 74}
+        - {x: -28.5, y: 29}
+        - {x: -26.5, y: 18}
+        - {x: -20.5, y: 15}
+        - {x: -16.5, y: 15}
+        - {x: -22.5, y: 12}
+        - {x: -24.5, y: 3}
+        - {x: -20.5, y: 1}
+        - {x: -15.5, y: 0}
+        - {x: 26.5, y: 0}
+        - {x: 29.5, y: 1}
+        - {x: 29.5, y: 53}
+        - {x: 25.5, y: 90}
+    - name: heroi-nivel1_37
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 3406
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 91}
+        - {x: -13.5, y: 91}
+        - {x: -28.5, y: 75}
+        - {x: -28.5, y: 0}
+        - {x: -3.5, y: 0}
+        - {x: -0.5, y: 6}
+        - {x: 3.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 29.5, y: 5}
+        - {x: 29.5, y: 32}
+        - {x: 21.5, y: 86}
+    - name: heroi-nivel1_38
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 3406
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 3}
+        - {x: -26.5, y: 0}
+        - {x: 25.5, y: 0}
+        - {x: 31.5, y: 2}
+        - {x: 31.5, y: 61}
+        - {x: 22.5, y: 90}
+        - {x: -27.5, y: 90}
+        - {x: -31.5, y: 56}
+    - name: heroi-nivel1_39
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 3406
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 79}
+        - {x: 8.5, y: 89}
+        - {x: -17.5, y: 89}
+        - {x: -24.5, y: 80}
+        - {x: -26.5, y: 60}
+        - {x: -33.5, y: 35}
+        - {x: -33.5, y: 4}
+        - {x: -19.5, y: 0}
+        - {x: 24.5, y: 0}
+        - {x: 33.5, y: 15}
+        - {x: 33.5, y: 35}
+    - name: heroi-nivel1_40
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 3406
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 87}
+        - {x: -29.5, y: 87}
+        - {x: -34.5, y: 53}
+        - {x: -34.5, y: 6}
+        - {x: -22.5, y: 0}
+        - {x: 28.5, y: 0}
+        - {x: 34.5, y: 5}
+        - {x: 34.5, y: 58}
+        - {x: 25.5, y: 82}
+    - name: heroi-nivel1_41
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 3406
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 89}
+        - {x: -33.5, y: 21}
+        - {x: -33.5, y: 6}
+        - {x: -29.5, y: 0}
+        - {x: 30.5, y: 0}
+        - {x: 33.5, y: 2}
+        - {x: 33.5, y: 57}
+        - {x: 16.5, y: 89}
+    - name: heroi-nivel1_42
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 3406
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 90}
+        - {x: -26.5, y: 68}
+        - {x: -31.5, y: 39}
+        - {x: -31.5, y: 2}
+        - {x: -27.5, y: 0}
+        - {x: 20.5, y: 0}
+        - {x: 31.5, y: 10}
+        - {x: 31.5, y: 22}
+        - {x: 19.5, y: 84}
+        - {x: 9.5, y: 90}
+    - name: heroi-nivel1_43
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 3406
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 91}
+        - {x: -8.5, y: 91}
+        - {x: -11.5, y: 89}
+        - {x: -16.5, y: 86}
+        - {x: -28.5, y: 66}
+        - {x: -28.5, y: 2}
+        - {x: -20.5, y: 0}
+        - {x: -2.5, y: 0}
+        - {x: -1.5, y: 2}
+        - {x: 2.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 29.5, y: 8}
+        - {x: 29.5, y: 34}
+        - {x: 27.5, y: 43}
+    - name: heroi-nivel1_44
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 3406
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 90}
+        - {x: -28.5, y: 66}
+        - {x: -28.5, y: 18}
+        - {x: -20.5, y: 14}
+        - {x: -17.5, y: 14}
+        - {x: -19.5, y: 14}
+        - {x: -22.5, y: 10}
+        - {x: -23.5, y: 4}
+        - {x: -21.5, y: 0}
+        - {x: 22.5, y: 0}
+        - {x: 29.5, y: 3}
+        - {x: 29.5, y: 84}
+        - {x: 14.5, y: 90}
+    - name: heroi-nivel1_45
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 3406
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 88}
+        - {x: -36.5, y: 64}
+        - {x: -36.5, y: 38}
+        - {x: -13.5, y: 0}
+        - {x: 37.5, y: 0}
+        - {x: 37.5, y: 55}
+        - {x: 30.5, y: 88}
+    - name: heroi-nivel1_46
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 3406
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 90}
+        - {x: -32.5, y: 77}
+        - {x: -32.5, y: 54}
+        - {x: -17.5, y: 21}
+        - {x: -5.5, y: 0}
+        - {x: 33.5, y: 0}
+        - {x: 33.5, y: 90}
+    - name: heroi-nivel1_47
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 3406
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 90}
+        - {x: -32.5, y: 89}
+        - {x: -32.5, y: 17}
+        - {x: -17.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 32.5, y: 40}
+        - {x: 32.5, y: 66}
+        - {x: 18.5, y: 90}
+    - name: heroi-nivel1_48
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 3406
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 0}
+        - {x: 44.5, y: 28}
+        - {x: 26.5, y: 85}
+        - {x: -44.5, y: 85}
+        - {x: -44.5, y: 0}
+    - name: heroi-nivel1_49
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3406
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.5, y: 74}
+        - {x: 31.5, y: 86}
+        - {x: -26.5, y: 86}
+        - {x: -29.5, y: 79}
+        - {x: -48.5, y: 34}
+        - {x: -48.5, y: 18}
+        - {x: -33.5, y: 0}
+        - {x: 4.5, y: 0}
+        - {x: 22.5, y: 18}
+        - {x: 22.5, y: 22}
+        - {x: 48.5, y: 45}
+    - name: heroi-nivel1_50
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 3406
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: 50}
+        - {x: 42.5, y: 86}
+        - {x: -21.5, y: 86}
+        - {x: -25.5, y: 83}
+        - {x: -42.5, y: 41}
+        - {x: -42.5, y: 18}
+        - {x: -34.5, y: 0}
+        - {x: 1.5, y: 0}
+        - {x: 0.5, y: 5}
+        - {x: -0.5, y: 8}
+        - {x: 29.5, y: 14}
+    - name: heroi-nivel1_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3176
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 96}
+        - {x: 12.5, y: 90}
+        - {x: 13.5, y: 84}
+        - {x: 14.5, y: 79}
+        - {x: 15.5, y: 78}
+        - {x: 15.5, y: 74}
+        - {x: 16.5, y: 73}
+        - {x: 16.5, y: 68}
+        - {x: 16.5, y: 69}
+        - {x: 15.5, y: 70}
+        - {x: 15.5, y: 76}
+        - {x: 14.5, y: 79}
+        - {x: 9.5, y: 85}
+        - {x: 0.5, y: 88}
+        - {x: -15.5, y: 89}
+        - {x: -35.5, y: 80}
+        - {x: -35.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 35.5, y: 29}
+        - {x: 35.5, y: 82}
+        - {x: 33.5, y: 96}
+    - name: heroi-nivel1_52
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 3176
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 95}
+        - {x: 1.5, y: 99}
+        - {x: -12.5, y: 99}
+        - {x: -29.5, y: 74}
+        - {x: -32.5, y: 40}
+        - {x: -32.5, y: 14}
+        - {x: -22.5, y: 1}
+        - {x: -21.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 33.5, y: 38}
+        - {x: 33.5, y: 60}
+        - {x: 30.5, y: 69}
+    - name: heroi-nivel1_53
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3176
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 93}
+        - {x: -27.5, y: 93}
+        - {x: -29.5, y: 91}
+        - {x: -29.5, y: 13}
+        - {x: -26.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 30.5, y: 47}
+        - {x: 30.5, y: 66}
+        - {x: 14.5, y: 91}
+    - name: heroi-nivel1_54
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 3176
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 89}
+        - {x: -32.5, y: 89}
+        - {x: -32.5, y: 27}
+        - {x: -26.5, y: 0}
+        - {x: 32.5, y: 0}
+        - {x: 31.5, y: 8}
+        - {x: 33.5, y: 32}
+        - {x: 33.5, y: 78}
+    - name: heroi-nivel1_55
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 3176
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 60}
+        - {x: 28.5, y: 60}
+        - {x: 21.5, y: 53}
+        - {x: 11.5, y: 38}
+        - {x: 3.5, y: 77}
+        - {x: -0.5, y: 86}
+        - {x: -36.5, y: 86}
+        - {x: -39.5, y: 72}
+        - {x: -39.5, y: 12}
+        - {x: -36.5, y: 0}
+        - {x: 2.5, y: 0}
+        - {x: 14.5, y: 10}
+        - {x: 39.5, y: 46}
+        - {x: 39.5, y: 57}
+    - name: heroi-nivel1_56
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 3176
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 88}
+        - {x: -30.5, y: 88}
+        - {x: -33.5, y: 78}
+        - {x: -33.5, y: 10}
+        - {x: -28.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 30.5, y: 11}
+        - {x: 34.5, y: 58}
+        - {x: 34.5, y: 74}
+        - {x: 30.5, y: 79}
+    - name: heroi-nivel1_57
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 3176
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 87}
+        - {x: -31.5, y: 29}
+        - {x: -16.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 31.5, y: 11}
+        - {x: 31.5, y: 83}
+        - {x: 19.5, y: 87}
+    - name: heroi-nivel1_58
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 3176
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 79}
+        - {x: 16.5, y: 85}
+        - {x: -34.5, y: 85}
+        - {x: -34.5, y: 21}
+        - {x: -10.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 30.5, y: 23}
+        - {x: 34.5, y: 71}
+        - {x: 34.5, y: 73}
+    - name: heroi-nivel1_59
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 3176
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 82}
+        - {x: -37.5, y: 82}
+        - {x: -37.5, y: 11}
+        - {x: -11.5, y: 0}
+        - {x: 21.5, y: 0}
+        - {x: 37.5, y: 53}
+        - {x: 37.5, y: 73}
+        - {x: 34.5, y: 80}
+    - name: heroi-nivel1_60
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 3176
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 83}
+        - {x: -37.5, y: 81}
+        - {x: -37.5, y: 22}
+        - {x: -32.5, y: 0}
+        - {x: 37.5, y: 0}
+        - {x: 37.5, y: 83}
+    - name: heroi-nivel1_61
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 3176
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 80}
+        - {x: -40.5, y: 63}
+        - {x: -40.5, y: 10}
+        - {x: -12.5, y: 0}
+        - {x: 39.5, y: 0}
+        - {x: 40.5, y: 4}
+        - {x: 40.5, y: 44}
+        - {x: 9.5, y: 80}
+    - name: heroi-nivel1_62
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 3176
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 81}
+        - {x: -6.5, y: 81}
+        - {x: -34.5, y: 64}
+        - {x: -43.5, y: 55}
+        - {x: -43.5, y: 7}
+        - {x: -42.5, y: 7}
+        - {x: -18.5, y: 0}
+        - {x: 43.5, y: 0}
+        - {x: 43.5, y: 40}
+    - name: heroi-nivel1_63
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 3176
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.5, y: 72}
+        - {x: 4.5, y: 72}
+        - {x: -42.5, y: 50}
+        - {x: -47.5, y: 44}
+        - {x: -47.5, y: 17}
+        - {x: -38.5, y: 0}
+        - {x: 41.5, y: 0}
+        - {x: 47.5, y: 31}
+        - {x: 48.5, y: 48}
+    - name: heroi-nivel1_64
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 3176
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.5, y: 42}
+        - {x: -57.5, y: 11}
+        - {x: -45.5, y: 0}
+        - {x: 44.5, y: 0}
+        - {x: 57.5, y: 3}
+        - {x: 57.5, y: 32}
+        - {x: 0.5, y: 42}
+    - name: heroi-nivel1_65
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 3176
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 86}
+        - {x: -26.5, y: 73}
+        - {x: -26.5, y: 0}
+        - {x: 26.5, y: 0}
+        - {x: 26.5, y: 80}
+        - {x: 16.5, y: 86}
+    - name: heroi-nivel1_66
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3176
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 88}
+        - {x: -2.5, y: 88}
+        - {x: -8.5, y: 87}
+        - {x: -22.5, y: 67}
+        - {x: -21.5, y: 55}
+        - {x: -11.5, y: 46}
+        - {x: -26.5, y: 33}
+        - {x: -27.5, y: 28}
+        - {x: -27.5, y: 13}
+        - {x: -9.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 27.5, y: 23}
+        - {x: 27.5, y: 66}
+        - {x: 25.5, y: 81}
+    - name: heroi-nivel1_67
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 3176
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 87}
+        - {x: -20.5, y: 78}
+        - {x: -28.5, y: 34}
+        - {x: -28.5, y: 18}
+        - {x: -14.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 24.5, y: 3}
+        - {x: 28.5, y: 27}
+        - {x: 28.5, y: 86}
+        - {x: 25.5, y: 87}
+    - name: heroi-nivel1_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2946
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 85}
+        - {x: -30.5, y: 50}
+        - {x: -30.5, y: 14}
+        - {x: -15.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 30.5, y: 24}
+        - {x: 30.5, y: 79}
+        - {x: 24.5, y: 85}
+    - name: heroi-nivel1_69
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2946
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 82}
+        - {x: -7.5, y: 71}
+        - {x: -32.5, y: 37}
+        - {x: -32.5, y: 0}
+        - {x: 22.5, y: 0}
+        - {x: 29.5, y: 1}
+        - {x: 32.5, y: 14}
+        - {x: 32.5, y: 82}
+    - name: heroi-nivel1_70
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2946
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 74}
+        - {x: -20.5, y: 55}
+        - {x: -37.5, y: 34}
+        - {x: -37.5, y: 5}
+        - {x: -32.5, y: 0}
+        - {x: 4.5, y: 0}
+        - {x: 37.5, y: 27}
+        - {x: 37.5, y: 74}
+    - name: heroi-nivel1_71
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2946
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 63}
+        - {x: 0.5, y: 63}
+        - {x: -40.5, y: 41}
+        - {x: -40.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 28.5, y: 12}
+        - {x: 40.5, y: 32}
+        - {x: 40.5, y: 61}
+    - name: heroi-nivel1_72
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2946
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 54}
+        - {x: -43.5, y: 38}
+        - {x: -43.5, y: 4}
+        - {x: -38.5, y: 0}
+        - {x: 7.5, y: 0}
+        - {x: 25.5, y: 5}
+        - {x: 43.5, y: 22}
+        - {x: 43.5, y: 54}
+    - name: heroi-nivel1_73
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2946
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 48}
+        - {x: -45.5, y: 36}
+        - {x: -45.5, y: 3}
+        - {x: -42.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 26.5, y: 1}
+        - {x: 45.5, y: 16}
+        - {x: 45.5, y: 46}
+        - {x: 37.5, y: 48}
+    - name: heroi-nivel1_74
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2946
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 42}
+        - {x: -47.5, y: 33}
+        - {x: -47.5, y: 9}
+        - {x: -43.5, y: 0}
+        - {x: 41.5, y: 0}
+        - {x: 48.5, y: 3}
+        - {x: 48.5, y: 42}
+    - name: heroi-nivel1_75
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2946
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 94}
+        - {x: 17.5, y: 81}
+        - {x: 21.5, y: 82}
+        - {x: 22.5, y: 72}
+        - {x: 22.5, y: 74}
+        - {x: 17.5, y: 79}
+        - {x: 10.5, y: 83}
+        - {x: -10.5, y: 85}
+        - {x: -38.5, y: 43}
+        - {x: -41.5, y: 37}
+        - {x: -41.5, y: 27}
+        - {x: -36.5, y: 22}
+        - {x: -30.5, y: 23}
+        - {x: -33.5, y: 11}
+        - {x: -28.5, y: 1}
+        - {x: -27.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 27.5, y: 5}
+        - {x: 41.5, y: 28}
+        - {x: 41.5, y: 85}
+        - {x: 33.5, y: 94}
+    - name: heroi-nivel1_76
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 2946
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 89}
+        - {x: -42.5, y: 51}
+        - {x: -42.5, y: 17}
+        - {x: -32.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 39.5, y: 16}
+        - {x: 42.5, y: 39}
+        - {x: 42.5, y: 89}
+    - name: heroi-nivel1_77
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2946
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 84}
+        - {x: -46.5, y: 54}
+        - {x: -46.5, y: 4}
+        - {x: -44.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 33.5, y: 16}
+        - {x: 46.5, y: 64}
+        - {x: 46.5, y: 84}
+    - name: heroi-nivel1_78
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2946
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 87}
+        - {x: -43.5, y: 63}
+        - {x: -43.5, y: 8}
+        - {x: -40.5, y: 0}
+        - {x: 4.5, y: 0}
+        - {x: 38.5, y: 12}
+        - {x: 44.5, y: 41}
+        - {x: 44.5, y: 86}
+        - {x: 43.5, y: 87}
+    - name: heroi-nivel1_79
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 2946
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 77}
+        - {x: 39.5, y: 90}
+        - {x: -41.5, y: 90}
+        - {x: -42.5, y: 82}
+        - {x: -42.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 10.5, y: 1}
+        - {x: 11.5, y: 12}
+        - {x: 35.5, y: 19}
+        - {x: 41.5, y: 35}
+    - name: heroi-nivel1_80
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 2946
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 26}
+        - {x: 41.5, y: 86}
+        - {x: 40.5, y: 87}
+        - {x: -17.5, y: 87}
+        - {x: -41.5, y: 36}
+        - {x: -41.5, y: 12}
+        - {x: -31.5, y: 0}
+        - {x: -1.5, y: 0}
+        - {x: 11.5, y: 12}
+        - {x: 10.5, y: 17}
+        - {x: 32.5, y: 20}
+    - name: heroi-nivel1_81
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 2946
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 84}
+        - {x: 28.5, y: 83}
+        - {x: 25.5, y: 74}
+        - {x: 24.5, y: 53}
+        - {x: 22.5, y: 72}
+        - {x: 16.5, y: 79}
+        - {x: 12.5, y: 84}
+        - {x: -4.5, y: 84}
+        - {x: -20.5, y: 79}
+        - {x: -41.5, y: 38}
+        - {x: -41.5, y: 0}
+        - {x: 41.5, y: 0}
+        - {x: 41.5, y: 81}
+        - {x: 40.5, y: 84}
+    - name: heroi-nivel1_82
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 2946
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 71}
+        - {x: 23.5, y: 62}
+        - {x: 24.5, y: 52}
+        - {x: 22.5, y: 66}
+        - {x: 22.5, y: 70}
+        - {x: 18.5, y: 78}
+        - {x: 0.5, y: 87}
+        - {x: -8.5, y: 87}
+        - {x: -40.5, y: 46}
+        - {x: -40.5, y: 0}
+        - {x: 41.5, y: 0}
+        - {x: 41.5, y: 81}
+        - {x: 40.5, y: 86}
+        - {x: 33.5, y: 87}
+        - {x: 25.5, y: 87}
+        - {x: 22.5, y: 82}
+    - name: heroi-nivel1_83
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2946
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 87}
+        - {x: -15.5, y: 84}
+        - {x: -40.5, y: 38}
+        - {x: -40.5, y: 17}
+        - {x: -39.5, y: 13}
+        - {x: -34.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 41.5, y: 25}
+        - {x: 41.5, y: 53}
+        - {x: 33.5, y: 87}
+    - name: heroi-nivel1_84
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 2946
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 66}
+        - {x: -40.5, y: 41}
+        - {x: -40.5, y: 6}
+        - {x: -27.5, y: 0}
+        - {x: 7.5, y: 0}
+        - {x: 41.5, y: 27}
+        - {x: 41.5, y: 91}
+        - {x: -2.5, y: 91}
+        - {x: -15.5, y: 88}
+    - name: heroi-nivel1_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2716
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 82}
+        - {x: -28.5, y: 82}
+        - {x: -42.5, y: 65}
+        - {x: -42.5, y: 25}
+        - {x: -21.5, y: 0}
+        - {x: 27.5, y: 0}
+        - {x: 42.5, y: 31}
+        - {x: 42.5, y: 42}
+        - {x: 17.5, y: 76}
+    - name: heroi-nivel1_86
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2716
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 83}
+        - {x: -22.5, y: 81}
+        - {x: -27.5, y: 72}
+        - {x: -41.5, y: 61}
+        - {x: -41.5, y: 13}
+        - {x: -34.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 29.5, y: 4}
+        - {x: 42.5, y: 27}
+        - {x: 42.5, y: 41}
+        - {x: 5.5, y: 83}
+    - name: heroi-nivel1_87
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2716
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 84}
+        - {x: -39.5, y: 75}
+        - {x: -40.5, y: 71}
+        - {x: -40.5, y: 15}
+        - {x: -19.5, y: 0}
+        - {x: 28.5, y: 0}
+        - {x: 41.5, y: 28}
+        - {x: 41.5, y: 38}
+        - {x: 11.5, y: 84}
+    - name: heroi-nivel1_88
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2716
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 83}
+        - {x: -25.5, y: 83}
+        - {x: -41.5, y: 55}
+        - {x: -41.5, y: 25}
+        - {x: -24.5, y: 0}
+        - {x: 35.5, y: 0}
+        - {x: 42.5, y: 26}
+        - {x: 42.5, y: 39}
+        - {x: 17.5, y: 78}
+    - name: heroi-nivel1_89
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2716
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 37}
+        - {x: 16.5, y: 74}
+        - {x: 10.5, y: 81}
+        - {x: -10.5, y: 81}
+        - {x: -19.5, y: 78}
+        - {x: -31.5, y: 70}
+        - {x: -42.5, y: 44}
+        - {x: -42.5, y: 19}
+        - {x: -16.5, y: 1}
+        - {x: -15.5, y: 0}
+        - {x: 28.5, y: 0}
+        - {x: 42.5, y: 28}
+        - {x: 42.5, y: 34}
+    - name: heroi-nivel1_90
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2716
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 83}
+        - {x: -33.5, y: 76}
+        - {x: -41.5, y: 44}
+        - {x: -41.5, y: 13}
+        - {x: -23.5, y: 0}
+        - {x: 33.5, y: 0}
+        - {x: 41.5, y: 11}
+        - {x: 41.5, y: 40}
+        - {x: 12.5, y: 83}
+    - name: heroi-nivel1_91
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2716
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 83}
+        - {x: -17.5, y: 83}
+        - {x: -34.5, y: 75}
+        - {x: -39.5, y: 57}
+        - {x: -39.5, y: 19}
+        - {x: -32.5, y: 0}
+        - {x: 30.5, y: 0}
+        - {x: 39.5, y: 14}
+        - {x: 39.5, y: 30}
+        - {x: 14.5, y: 73}
+    - name: heroi-nivel1_92
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2716
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 80}
+        - {x: -30.5, y: 73}
+        - {x: -41.5, y: 62}
+        - {x: -41.5, y: 3}
+        - {x: -39.5, y: 0}
+        - {x: 29.5, y: 0}
+        - {x: 42.5, y: 15}
+        - {x: 42.5, y: 44}
+        - {x: 11.5, y: 80}
+    - name: heroi-nivel1_93
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 2716
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 76}
+        - {x: -42.5, y: 60}
+        - {x: -42.5, y: 2}
+        - {x: -41.5, y: 0}
+        - {x: 40.5, y: 0}
+        - {x: 42.5, y: 1}
+        - {x: 42.5, y: 44}
+        - {x: 14.5, y: 76}
+    - name: heroi-nivel1_94
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2716
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 79}
+        - {x: -25.5, y: 79}
+        - {x: -42.5, y: 53}
+        - {x: -42.5, y: 8}
+        - {x: -23.5, y: 0}
+        - {x: 30.5, y: 0}
+        - {x: 33.5, y: 5}
+        - {x: 43.5, y: 27}
+        - {x: 43.5, y: 38}
+    - name: heroi-nivel1_95
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2716
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 77}
+        - {x: 33.5, y: 80}
+        - {x: 9.5, y: 89}
+        - {x: -27.5, y: 89}
+        - {x: -31.5, y: 77}
+        - {x: -32.5, y: 59}
+        - {x: -31.5, y: 56}
+        - {x: -36.5, y: 41}
+        - {x: -36.5, y: 12}
+        - {x: -32.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 14.5, y: 5}
+        - {x: 24.5, y: 15}
+        - {x: 37.5, y: 60}
+    - name: heroi-nivel1_96
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 2716
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 18}
+        - {x: 37.5, y: 51}
+        - {x: 37.5, y: 75}
+        - {x: 33.5, y: 79}
+        - {x: 23.5, y: 74}
+        - {x: 20.5, y: 67}
+        - {x: 2.5, y: 88}
+        - {x: -20.5, y: 88}
+        - {x: -37.5, y: 79}
+        - {x: -37.5, y: 6}
+        - {x: -34.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 11.5, y: 6}
+        - {x: 6.5, y: 12}
+        - {x: 12.5, y: 14}
+    - name: heroi-nivel1_97
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 2716
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 75}
+        - {x: 22.5, y: 71}
+        - {x: 1.5, y: 88}
+        - {x: -22.5, y: 88}
+        - {x: -33.5, y: 83}
+        - {x: -37.5, y: 41}
+        - {x: -37.5, y: 0}
+        - {x: 12.5, y: 0}
+        - {x: 29.5, y: 26}
+        - {x: 37.5, y: 62}
+        - {x: 37.5, y: 76}
+    - name: heroi-nivel1_98
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 2716
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 87}
+        - {x: -37.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 33.5, y: 24}
+        - {x: 37.5, y: 50}
+        - {x: 37.5, y: 87}
+    - name: heroi-nivel1_99
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 2716
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 87}
+        - {x: -37.5, y: 79}
+        - {x: -37.5, y: 0}
+        - {x: 25.5, y: 0}
+        - {x: 38.5, y: 49}
+        - {x: 38.5, y: 87}
+    - name: heroi-nivel1_100
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2716
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 87}
+        - {x: -38.5, y: 0}
+        - {x: 15.5, y: 0}
+        - {x: 38.5, y: 48}
+        - {x: 38.5, y: 87}
+    - name: heroi-nivel1_101
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 2716
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 87}
+        - {x: -29.5, y: 87}
+        - {x: -37.5, y: 79}
+        - {x: -37.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 12.5, y: 4}
+        - {x: 38.5, y: 50}
+        - {x: 38.5, y: 86}
+    - name: heroi-nivel1_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2486
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 14}
+        - {x: 9.5, y: 8}
+        - {x: 37.5, y: 19}
+        - {x: 37.5, y: 83}
+        - {x: 22.5, y: 87}
+        - {x: -32.5, y: 87}
+        - {x: -35.5, y: 76}
+        - {x: -37.5, y: 57}
+        - {x: -37.5, y: 9}
+        - {x: -36.5, y: 1}
+        - {x: -35.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 9.5, y: 6}
+        - {x: 3.5, y: 12}
+        - {x: -1.5, y: 14}
+    - name: heroi-nivel1_103
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2486
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 75}
+        - {x: 22.5, y: 71}
+        - {x: 1.5, y: 88}
+        - {x: -22.5, y: 88}
+        - {x: -33.5, y: 83}
+        - {x: -37.5, y: 65}
+        - {x: -37.5, y: 0}
+        - {x: 12.5, y: 0}
+        - {x: 29.5, y: 26}
+        - {x: 37.5, y: 62}
+        - {x: 37.5, y: 76}
+    - name: heroi-nivel1_104
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2486
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 18}
+        - {x: 37.5, y: 51}
+        - {x: 37.5, y: 75}
+        - {x: 33.5, y: 79}
+        - {x: 23.5, y: 74}
+        - {x: 20.5, y: 67}
+        - {x: 2.5, y: 88}
+        - {x: -20.5, y: 88}
+        - {x: -37.5, y: 79}
+        - {x: -37.5, y: 6}
+        - {x: -34.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 11.5, y: 6}
+        - {x: 6.5, y: 12}
+        - {x: 12.5, y: 14}
+    - name: heroi-nivel1_105
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2486
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 89}
+        - {x: -30.5, y: 75}
+        - {x: -30.5, y: 0}
+        - {x: 30.5, y: 0}
+        - {x: 30.5, y: 89}
+    - name: heroi-nivel1_106
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2486
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 88}
+        - {x: -29.5, y: 53}
+        - {x: -29.5, y: 20}
+        - {x: -20.5, y: 15}
+        - {x: -11.5, y: 22}
+        - {x: -21.5, y: 4}
+        - {x: -19.5, y: 0}
+        - {x: 26.5, y: 0}
+        - {x: 30.5, y: 7}
+        - {x: 30.5, y: 51}
+        - {x: 23.5, y: 88}
+    - name: heroi-nivel1_107
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2486
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 88}
+        - {x: -14.5, y: 88}
+        - {x: -29.5, y: 78}
+        - {x: -29.5, y: 0}
+        - {x: 29.5, y: 0}
+        - {x: 29.5, y: 87}
+    - name: heroi-nivel1_108
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2486
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 87}
+        - {x: -28.5, y: 4}
+        - {x: -22.5, y: 0}
+        - {x: 28.5, y: 0}
+        - {x: 28.5, y: 84}
+        - {x: 23.5, y: 87}
+    - name: heroi-nivel1_109
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2486
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 87}
+        - {x: -27.5, y: 77}
+        - {x: -27.5, y: 15}
+        - {x: -21.5, y: 10}
+        - {x: -15.5, y: 13}
+        - {x: -10.5, y: 16}
+        - {x: -18.5, y: 6}
+        - {x: -18.5, y: 0}
+        - {x: 27.5, y: 0}
+        - {x: 27.5, y: 79}
+        - {x: 18.5, y: 87}
+    - name: heroi-nivel1_110
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 2486
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 87}
+        - {x: -26.5, y: 73}
+        - {x: -26.5, y: 25}
+        - {x: -24.5, y: 16}
+        - {x: -19.5, y: 10}
+        - {x: -19.5, y: 11}
+        - {x: -20.5, y: 4}
+        - {x: -19.5, y: 0}
+        - {x: 27.5, y: 0}
+        - {x: 27.5, y: 82}
+        - {x: 17.5, y: 87}
+    - name: heroi-nivel1_111
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2486
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 87}
+        - {x: -16.5, y: 81}
+        - {x: -27.5, y: 65}
+        - {x: -27.5, y: 20}
+        - {x: -21.5, y: 5}
+        - {x: -15.5, y: 14}
+        - {x: -7.5, y: 19}
+        - {x: -8.5, y: 18}
+        - {x: -10.5, y: 13}
+        - {x: -13.5, y: 12}
+        - {x: -18.5, y: 6}
+        - {x: -18.5, y: 0}
+        - {x: 27.5, y: 0}
+        - {x: 27.5, y: 80}
+        - {x: 21.5, y: 87}
+    - name: heroi-nivel1_112
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2486
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 87}
+        - {x: -12.5, y: 87}
+        - {x: -28.5, y: 62}
+        - {x: -28.5, y: 28}
+        - {x: -25.5, y: 11}
+        - {x: -19.5, y: 0}
+        - {x: 28.5, y: 0}
+        - {x: 28.5, y: 74}
+    - name: heroi-nivel1_113
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 2486
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 88}
+        - {x: -14.5, y: 88}
+        - {x: -29.5, y: 68}
+        - {x: -29.5, y: 11}
+        - {x: -26.5, y: 0}
+        - {x: 29.5, y: 0}
+        - {x: 29.5, y: 87}
+    - name: heroi-nivel1_114
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 2486
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 88}
+        - {x: -15.5, y: 88}
+        - {x: -29.5, y: 55}
+        - {x: -29.5, y: 0}
+        - {x: 27.5, y: 0}
+        - {x: 30.5, y: 8}
+        - {x: 30.5, y: 41}
+        - {x: 25.5, y: 77}
+    - name: heroi-nivel1_115
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 2486
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 63}
+        - {x: 30.5, y: 64}
+        - {x: -2.5, y: 88}
+        - {x: -35.5, y: 88}
+        - {x: -41.5, y: 83}
+        - {x: -41.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 41.5, y: 50}
+        - {x: 41.5, y: 61}
+    - name: heroi-nivel1_116
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 2486
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 84}
+        - {x: 31.5, y: 82}
+        - {x: 6.5, y: 96}
+        - {x: -40.5, y: 96}
+        - {x: -43.5, y: 50}
+        - {x: -43.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 42.5, y: 32}
+        - {x: 44.5, y: 60}
+        - {x: 44.5, y: 93}
+    - name: heroi-nivel1_117
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2486
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 99}
+        - {x: -34.5, y: 92}
+        - {x: -44.5, y: 58}
+        - {x: -44.5, y: 24}
+        - {x: -21.5, y: 0}
+        - {x: 3.5, y: 0}
+        - {x: 37.5, y: 41}
+        - {x: 44.5, y: 82}
+        - {x: 44.5, y: 99}
+    - name: heroi-nivel1_118
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 2486
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 100}
+        - {x: -44.5, y: 64}
+        - {x: -44.5, y: 5}
+        - {x: -42.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 44.5, y: 17}
+        - {x: 44.5, y: 100}
+    - name: heroi-nivel1_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2256
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 88}
+        - {x: 32.5, y: 84}
+        - {x: 31.5, y: 81}
+        - {x: 26.5, y: 58}
+        - {x: 14.5, y: 84}
+        - {x: -9.5, y: 87}
+        - {x: -22.5, y: 82}
+        - {x: -45.5, y: 48}
+        - {x: -45.5, y: 27}
+        - {x: -41.5, y: 20}
+        - {x: -27.5, y: 26}
+        - {x: -29.5, y: 25}
+        - {x: -36.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 46.5, y: 26}
+        - {x: 46.5, y: 88}
+    - name: heroi-nivel1_120
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2256
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 88}
+        - {x: -17.5, y: 88}
+        - {x: -32.5, y: 61}
+        - {x: -32.5, y: 20}
+        - {x: -19.5, y: 0}
+        - {x: 29.5, y: 0}
+        - {x: 32.5, y: 8}
+        - {x: 32.5, y: 77}
+    - name: heroi-nivel1_121
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2256
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 96}
+        - {x: -34.5, y: 72}
+        - {x: -34.5, y: 8}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 34.5, y: 23}
+        - {x: 34.5, y: 60}
+        - {x: 20.5, y: 96}
+    - name: heroi-nivel1_122
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2256
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 37}
+        - {x: 39.5, y: 54}
+        - {x: 17.5, y: 99}
+        - {x: -16.5, y: 99}
+        - {x: -39.5, y: 62}
+        - {x: -39.5, y: 24}
+        - {x: -18.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 21.5, y: 18}
+        - {x: 20.5, y: 20}
+        - {x: 16.5, y: 24}
+        - {x: 27.5, y: 27}
+    - name: heroi-nivel1_123
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2256
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 96}
+        - {x: -14.5, y: 96}
+        - {x: -24.5, y: 80}
+        - {x: -40.5, y: 59}
+        - {x: -40.5, y: 25}
+        - {x: -19.5, y: 6}
+        - {x: -2.5, y: 0}
+        - {x: 27.5, y: 0}
+        - {x: 40.5, y: 40}
+        - {x: 40.5, y: 53}
+        - {x: 20.5, y: 84}
+    - name: heroi-nivel1_124
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2256
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 85}
+        - {x: -25.5, y: 76}
+        - {x: -40.5, y: 65}
+        - {x: -40.5, y: 0}
+        - {x: 27.5, y: 0}
+        - {x: 40.5, y: 19}
+        - {x: 40.5, y: 41}
+        - {x: 11.5, y: 85}
+    - name: heroi-nivel1_125
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2256
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: heroi-nivel1_126
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2256
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: heroi-nivel1_127
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 2256
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: heroi-nivel1_128
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2256
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: heroi-nivel1_129
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2256
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: heroi-nivel1_130
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 2256
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: heroi-nivel1_131
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 2256
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: heroi-nivel1_132
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 2256
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: heroi-nivel1_133
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 2256
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: heroi-nivel1_134
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2256
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: heroi-nivel1_135
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 2256
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: heroi-nivel1_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2026
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: heroi-nivel1_137
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2026
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: heroi-nivel1_138
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2026
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: heroi-nivel1_139
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2026
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: heroi-nivel1_140
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2026
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: heroi-nivel1_141
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2026
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

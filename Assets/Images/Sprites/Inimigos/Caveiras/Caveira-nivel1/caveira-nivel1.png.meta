@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: 22e865c813dbd4a789a4b48548b2a0e8
+timeCreated: 1464896382
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: caveira-nivel1_0
+    21300002: caveira-nivel1_1
+    21300004: caveira-nivel1_2
+    21300006: caveira-nivel1_3
+    21300008: caveira-nivel1_4
+    21300010: caveira-nivel1_5
+    21300012: caveira-nivel1_6
+    21300014: caveira-nivel1_7
+    21300016: caveira-nivel1_8
+    21300018: caveira-nivel1_9
+    21300020: caveira-nivel1_10
+    21300022: caveira-nivel1_11
+    21300024: caveira-nivel1_12
+    21300026: caveira-nivel1_13
+    21300028: caveira-nivel1_14
+    21300030: caveira-nivel1_15
+    21300032: caveira-nivel1_16
+    21300034: caveira-nivel1_17
+    21300036: caveira-nivel1_18
+    21300038: caveira-nivel1_19
+    21300040: caveira-nivel1_20
+    21300042: caveira-nivel1_21
+    21300044: caveira-nivel1_22
+    21300046: caveira-nivel1_23
+    21300048: caveira-nivel1_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: caveira-nivel1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 60}
+        - {x: 19.5, y: 100}
+        - {x: 2.5, y: 108}
+        - {x: -26.5, y: 108}
+        - {x: -35.5, y: 99}
+        - {x: -41.5, y: 71}
+        - {x: -41.5, y: 34}
+        - {x: -37.5, y: 29}
+        - {x: -35.5, y: 30}
+        - {x: -21.5, y: 9}
+        - {x: 14.5, y: 9}
+        - {x: 16.5, y: 11}
+        - {x: 17.5, y: 23}
+        - {x: 12.5, y: 30}
+        - {x: 14.5, y: 43}
+    - name: caveira-nivel1_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 106}
+        - {x: -38.5, y: 95}
+        - {x: -38.5, y: 12}
+        - {x: -33.5, y: 9}
+        - {x: 16.5, y: 9}
+        - {x: 17.5, y: 10}
+        - {x: 17.5, y: 84}
+        - {x: 9.5, y: 106}
+    - name: caveira-nivel1_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 106}
+        - {x: -33.5, y: 106}
+        - {x: -35.5, y: 105}
+        - {x: -35.5, y: 18}
+        - {x: -23.5, y: 9}
+        - {x: 3.5, y: 9}
+        - {x: 9.5, y: 11}
+        - {x: 13.5, y: 46}
+        - {x: 13.5, y: 94}
+    - name: caveira-nivel1_3
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 107}
+        - {x: -35.5, y: 105}
+        - {x: -35.5, y: 41}
+        - {x: -33.5, y: 20}
+        - {x: -19.5, y: 9}
+        - {x: -1.5, y: 9}
+        - {x: 13.5, y: 47}
+        - {x: 13.5, y: 87}
+        - {x: 5.5, y: 107}
+    - name: caveira-nivel1_4
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 109}
+        - {x: -35.5, y: 104}
+        - {x: -35.5, y: 13}
+        - {x: -34.5, y: 9}
+        - {x: 1.5, y: 9}
+        - {x: 13.5, y: 12}
+        - {x: 13.5, y: 92}
+        - {x: 4.5, y: 109}
+    - name: caveira-nivel1_5
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 108}
+        - {x: -35.5, y: 95}
+        - {x: -35.5, y: 9}
+        - {x: 6.5, y: 9}
+        - {x: 13.5, y: 15}
+        - {x: 13.5, y: 90}
+        - {x: 4.5, y: 108}
+    - name: caveira-nivel1_6
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 108}
+        - {x: -28.5, y: 108}
+        - {x: -39.5, y: 101}
+        - {x: -39.5, y: 23}
+        - {x: -21.5, y: 9}
+        - {x: 0.5, y: 9}
+        - {x: 9.5, y: 15}
+        - {x: 17.5, y: 39}
+        - {x: 17.5, y: 90}
+    - name: caveira-nivel1_7
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 108}
+        - {x: -41.5, y: 87}
+        - {x: -41.5, y: 36}
+        - {x: -40.5, y: 35}
+        - {x: -15.5, y: 37}
+        - {x: -8.5, y: 44}
+        - {x: -12.5, y: 39}
+        - {x: -21.5, y: 32}
+        - {x: -18.5, y: 9}
+        - {x: 14.5, y: 9}
+        - {x: 19.5, y: 29}
+        - {x: 19.5, y: 96}
+        - {x: 9.5, y: 108}
+    - name: caveira-nivel1_8
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 108}
+        - {x: -43.5, y: 61}
+        - {x: -43.5, y: 43}
+        - {x: -41.5, y: 39}
+        - {x: -17.5, y: 38}
+        - {x: -10.5, y: 42}
+        - {x: -8.5, y: 44}
+        - {x: -9.5, y: 42}
+        - {x: -29.5, y: 9}
+        - {x: 21.5, y: 9}
+        - {x: 21.5, y: 95}
+        - {x: 17.5, y: 108}
+    - name: caveira-nivel1_9
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 108}
+        - {x: -26.5, y: 108}
+        - {x: -44.5, y: 98}
+        - {x: -44.5, y: 36}
+        - {x: -17.5, y: 39}
+        - {x: -12.5, y: 42}
+        - {x: -7.5, y: 46}
+        - {x: -11.5, y: 41}
+        - {x: -17.5, y: 33}
+        - {x: -27.5, y: 18}
+        - {x: -9.5, y: 9}
+        - {x: 19.5, y: 9}
+        - {x: 22.5, y: 16}
+        - {x: 22.5, y: 85}
+        - {x: 21.5, y: 91}
+    - name: caveira-nivel1_10
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 112}
+        - {x: -36.5, y: 9}
+        - {x: 10.5, y: 9}
+        - {x: 15.5, y: 54}
+        - {x: 15.5, y: 106}
+        - {x: 4.5, y: 112}
+    - name: caveira-nivel1_11
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 12}
+        - {x: -39.5, y: 9}
+        - {x: 18.5, y: 9}
+        - {x: 18.5, y: 100}
+        - {x: 7.5, y: 112}
+        - {x: -25.5, y: 112}
+        - {x: -40.5, y: 100}
+    - name: caveira-nivel1_12
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 110}
+        - {x: -46.5, y: 98}
+        - {x: -46.5, y: 46}
+        - {x: -23.5, y: 9}
+        - {x: 24.5, y: 9}
+        - {x: 24.5, y: 95}
+        - {x: -2.5, y: 110}
+    - name: caveira-nivel1_13
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 106}
+        - {x: -37.5, y: 106}
+        - {x: -50.5, y: 102}
+        - {x: -50.5, y: 9}
+        - {x: 28.5, y: 9}
+        - {x: 29.5, y: 13}
+        - {x: 29.5, y: 58}
+        - {x: -1.5, y: 98}
+    - name: caveira-nivel1_14
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 105}
+        - {x: -51.5, y: 105}
+        - {x: -51.5, y: 22}
+        - {x: -23.5, y: 9}
+        - {x: 24.5, y: 9}
+        - {x: 29.5, y: 27}
+        - {x: 29.5, y: 71}
+    - name: caveira-nivel1_15
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 106}
+        - {x: -28.5, y: 103}
+        - {x: -37.5, y: 98}
+        - {x: -37.5, y: 29}
+        - {x: -32.5, y: 26}
+        - {x: -30.5, y: 26}
+        - {x: -34.5, y: 25}
+        - {x: -37.5, y: 24}
+        - {x: -37.5, y: 21}
+        - {x: -36.5, y: 15}
+        - {x: -27.5, y: 9}
+        - {x: 1.5, y: 9}
+        - {x: 15.5, y: 42}
+        - {x: 15.5, y: 97}
+        - {x: 4.5, y: 106}
+    - name: caveira-nivel1_16
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 3866
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 103}
+        - {x: -27.5, y: 103}
+        - {x: -38.5, y: 98}
+        - {x: -38.5, y: 21}
+        - {x: -32.5, y: 9}
+        - {x: 6.5, y: 9}
+        - {x: 6.5, y: 10}
+        - {x: 16.5, y: 32}
+        - {x: 16.5, y: 76}
+        - {x: 7.5, y: 97}
+    - name: caveira-nivel1_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 98}
+        - {x: -42.5, y: 24}
+        - {x: -23.5, y: 9}
+        - {x: 10.5, y: 9}
+        - {x: 20.5, y: 17}
+        - {x: 20.5, y: 78}
+        - {x: 19.5, y: 84}
+        - {x: -7.5, y: 98}
+    - name: caveira-nivel1_18
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 90}
+        - {x: -46.5, y: 48}
+        - {x: -34.5, y: 9}
+        - {x: 14.5, y: 9}
+        - {x: 24.5, y: 12}
+        - {x: 24.5, y: 90}
+    - name: caveira-nivel1_19
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 83}
+        - {x: -37.5, y: 83}
+        - {x: -42.5, y: 82}
+        - {x: -49.5, y: 77}
+        - {x: -49.5, y: 51}
+        - {x: -21.5, y: 9}
+        - {x: 13.5, y: 9}
+        - {x: 27.5, y: 16}
+        - {x: 27.5, y: 57}
+        - {x: 5.5, y: 80}
+    - name: caveira-nivel1_20
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 76}
+        - {x: -53.5, y: 76}
+        - {x: -53.5, y: 36}
+        - {x: -19.5, y: 14}
+        - {x: -4.5, y: 9}
+        - {x: 15.5, y: 9}
+        - {x: 26.5, y: 18}
+        - {x: 31.5, y: 23}
+        - {x: 31.5, y: 73}
+    - name: caveira-nivel1_21
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 69}
+        - {x: -56.5, y: 31}
+        - {x: -55.5, y: 23}
+        - {x: -4.5, y: 9}
+        - {x: 34.5, y: 9}
+        - {x: 34.5, y: 51}
+        - {x: 20.5, y: 69}
+    - name: caveira-nivel1_22
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 65}
+        - {x: -57.5, y: 63}
+        - {x: -57.5, y: 30}
+        - {x: -51.5, y: 15}
+        - {x: -15.5, y: 9}
+        - {x: 12.5, y: 9}
+        - {x: 35.5, y: 14}
+        - {x: 35.5, y: 45}
+        - {x: 4.5, y: 65}
+    - name: caveira-nivel1_23
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 63}
+        - {x: -47.5, y: 63}
+        - {x: -57.5, y: 47}
+        - {x: -57.5, y: 19}
+        - {x: -53.5, y: 9}
+        - {x: 36.5, y: 9}
+        - {x: 36.5, y: 39}
+        - {x: 33.5, y: 55}
+    - name: caveira-nivel1_24
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 3636
+        width: 230
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 59}
+        - {x: -57.5, y: 46}
+        - {x: -57.5, y: 13}
+        - {x: -44.5, y: 9}
+        - {x: 34.5, y: 9}
+        - {x: 36.5, y: 12}
+        - {x: 36.5, y: 53}
+        - {x: 2.5, y: 59}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
