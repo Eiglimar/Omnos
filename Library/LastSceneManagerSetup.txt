@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Images/Scenes/Apresentacao.unity
+- path: Assets/Images/Scenes/Fase6.unity
   isLoaded: 1
   isActive: 1

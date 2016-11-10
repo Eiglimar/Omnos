@@ -141,9 +141,11 @@ public class Personagem : MonoBehaviour {
 			currentHealth = 0;
 		}
 
-		if(!wallCheck) // verifica se nao esta colidindo com algum objeto na frente
-		{
+		if (!wallCheck) 
+		{   
+			// verifica se nao esta colidindo com algum objeto na frente
 			rb2D.velocity = new Vector2 (slide * moveSpeed, rb2D.velocity.y);// se eu deixar o y em 0 o personagem não vai pular
+			//Debug.Log ("Não está batendo");
 		}
 
 		//caminhar
@@ -363,9 +365,9 @@ public class Personagem : MonoBehaviour {
 			break;*/
 
 			default:
-				wallCheck = true;
 			break;
 		}
+		wallCheck = true;
 	}
 
 	void OnTriggerExit2D(Collider2D col)
@@ -377,6 +379,7 @@ public class Personagem : MonoBehaviour {
 				txtCaixaDialogo.text = "Sem interação";
 			break;
 		}
+		wallCheck = false;
 	}
 
 	//Funcao para fazer o personagem piscar quando for atacado!
